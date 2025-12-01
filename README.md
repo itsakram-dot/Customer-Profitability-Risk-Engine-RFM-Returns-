@@ -1,4 +1,4 @@
-# Customer Profitability & Risk Engine (RFM + Returns)
+# Customer Profitability & Risk Engine (RFM + Returns) (SQL → Power BI)
 SQLite + Power BI project that surfaces **Margin Drainers** — customers who look valuable on revenue but destroy margin on returns.
 
 <img width="1148" height="650" alt="Screenshot 2025-11-30 at 23 23 40" src="https://github.com/user-attachments/assets/94aa6202-7fbc-4267-ab00-89ad41a43278" />
