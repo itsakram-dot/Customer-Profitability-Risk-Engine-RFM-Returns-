@@ -1,7 +1,7 @@
 # Customer Profitability & Risk Engine (RFM + Returns)
 SQLite + Power BI project that surfaces **Margin Drainers** — customers who look valuable on revenue but destroy margin on returns.
 
-<img width="1148" height="650" alt="Screenshot 2025-11-30 at 23 15 26" src="https://github.com/user-attachments/assets/6120f79a-3569-49ac-8e28-5d0d751fcd94" />
+<img width="1148" height="650" alt="Screenshot 2025-11-30 at 23 23 40" src="https://github.com/user-attachments/assets/94aa6202-7fbc-4267-ab00-89ad41a43278" />
 
 ## Problem
 Classic RFM treats all revenue as good revenue. It can’t answer: **Which high-spend customers are unprofitable because of returns?**
