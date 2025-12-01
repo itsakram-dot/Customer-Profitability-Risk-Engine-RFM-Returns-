@@ -35,9 +35,16 @@ Classic RFM treats all revenue as good revenue. It can’t answer: **Which high-
 - **Measures:** `Total Net Sales, Gross Sales, Returns Value, % Returned Value, Customer Count, Avg Recency (Days), Avg Frequency`.
 - **Pages**
   1. **Executive Overview** — KPI cards; 1-line narrative.
+<img width="1148" height="650" alt="Screenshot 2025-12-01 at 09 57 19" src="https://github.com/user-attachments/assets/d967ab54-485c-4668-9cc7-32f1c4c12eae" />
+
   2. **Segment Mix** — treemap sized by **Net Sales** with tooltips (Avg Recency, ReturnRate).
+<img width="1148" height="650" alt="Screenshot 2025-12-01 at 09 57 28" src="https://github.com/user-attachments/assets/b88a3691-cf09-4d7b-8506-a620e88d46a1" />
+
   3. **Risk vs Value** — bubble chart (**X = Return Rate %**, **Y = Net Sales**, **Size = Gross Sales**, color by Risk Flag). Reference lines at **10% (watchlist)** and **30% (high-risk)**. Two tables: **Top customers (low returns)** and **Margin Drainers**.
+<img width="1148" height="650" alt="Screenshot 2025-11-30 at 23 23 40" src="https://github.com/user-attachments/assets/5a846afc-5b06-4d40-a4bd-061b3a240c2e" />
+
   4. **Customer Details** — multi-row card, monthly spend sparkline, and detail table; opened via cross-filter or drill-through.
+<img width="1148" height="650" alt="Screenshot 2025-12-01 at 09 58 55" src="https://github.com/user-attachments/assets/68bce53c-b96b-4598-b82e-796eeca90abe" />
 
 ## Why this matters (actions)
 - **Retention:** focus offers on **At-Risk**; monitor drift in return rate.
