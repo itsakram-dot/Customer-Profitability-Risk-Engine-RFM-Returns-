@@ -46,7 +46,7 @@ Classic RFM treats all revenue as good revenue. It can’t answer: **Which high-
   4. **Customer Details** — multi-row card, monthly spend sparkline, and detail table; opened via cross-filter or drill-through.
 <img width="1148" height="650" alt="Screenshot 2025-12-01 at 09 58 55" src="https://github.com/user-attachments/assets/68bce53c-b96b-4598-b82e-796eeca90abe" />
 
-## Why this matters (actions)
+## Why this matters
 - **Retention:** focus offers on **At-Risk**; monitor drift in return rate.
 - **Protection:** keep **Champions/Top Spenders** healthy; watch early churn signals.
 - **Reactivation:** target **Hibernating/Lost** by cohort.
@@ -58,7 +58,7 @@ Classic RFM treats all revenue as good revenue. It can’t answer: **Which high-
    Export `Result_14.csv`.
 2. **Power BI**: import `Result_14.csv`, add measures below, and open the report pages.
 
-### DAX (copy/paste)
+### DAX
 ```DAX
 Total Net Sales      = SUM('Result_14'[Monetary_NetSales])
 Gross Sales          = SUM('Result_14'[GrossSales])
